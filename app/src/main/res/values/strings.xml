@@ -5,4 +5,7 @@
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="app_main_title">WristNews</string>
+    <string name="welcome_message_content">Daily news, delivered on your wrist.</string>
+    <string name="getting_started_content">Getting Started!</string>
 </resources>
